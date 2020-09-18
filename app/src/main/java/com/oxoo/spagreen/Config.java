@@ -3,13 +3,13 @@ package com.oxoo.spagreen;
 public class Config {
 
     // copy your api url from php admin dashboard & paste below
-    public static final String API_SERVER_URL = "http://demo.redtvlive.com/oxoo/v12/rest-api/";
+    public static final String API_SERVER_URL = "https://abangjono.000webhostapp.com/rest-api/";
 
     //copy your api key from php admin dashboard & paste below
-    public static final String API_KEY = "oyktaah8kjh8y6inf81rnn8g";
+    public static final String API_KEY = "zgo0wjgvj655n74d1mmz4nne";
 
     //copy your terms url from php admin dashboard & paste below
-    public static final String TERMS_URL = "https://spagreen.net/tearms-of-services/";
+    public static final String TERMS_URL = "https://abangjono.000webhostapp.com/tearms-of-services/";
 
     //youtube video auto play
     public static boolean YOUTUBE_VIDEO_AUTO_PLAY = true;
